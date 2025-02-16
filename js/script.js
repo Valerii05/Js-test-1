@@ -13,7 +13,7 @@ const personalMovieDB = {
 //     c = prompt('Last your film name ?', ''),
 //     d = prompt('Put the mark for that film');
 
-personalMovieDB.movies[a] = b;
-personalMovieDB.movies[c] = d; 
+// personalMovieDB.movies[a] = b;
+// personalMovieDB.movies[c] = d; 
 
 console.log (personalMovieDB);
